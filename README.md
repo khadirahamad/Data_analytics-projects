@@ -52,6 +52,7 @@ Identification of best-selling products and categories.
 Regions contributing the most revenue.
 
 Sales trends across different time periods.
+-----
 
 **Results**
 
