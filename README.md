@@ -8,6 +8,7 @@ The Sales Analysis Project is a comprehensive data analysis initiative that prov
 Data Cleaning: Handling missing values, standardizing data formats, and ensuring consistency.
 
 Exploratory Data Analysis (EDA):
+-----
 
 Insights into top-performing products, categories, and regions.
 
@@ -42,8 +43,6 @@ Product details (names, categories).
 Sales transaction records (date, time, revenue).
 
 Geographic information (region, country).
-
-(Dataset details, source, and access permissions can be updated here.)
 
 **Key Insights**
 
