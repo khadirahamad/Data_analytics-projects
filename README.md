@@ -1,9 +1,9 @@
 # Data_analytics-projects
-Overview
+**Overview**
 
 The Sales Analysis Project is a comprehensive data analysis initiative that provides insights into sales performance. It leverages Python's data manipulation and visualization libraries to analyze, interpret, and visualize sales data effectively. This project is designed to help businesses make data-driven decisions by identifying trends, seasonal patterns, and actionable insights.
 
-Features
+**Features**
 
 Data Cleaning: Handling missing values, standardizing data formats, and ensuring consistency.
 
@@ -19,11 +19,11 @@ Visualization: Graphical representations of data using libraries like Matplotlib
 
 Seasonality Analysis: Identifying peak sales months and seasonal patterns.
 
-Technologies Used
+**Technologies Used**
 
 Programming Language: Python
 
-Libraries:
+**Libraries:**
 
 Pandas: For data manipulation and analysis.
 
@@ -33,7 +33,7 @@ Matplotlib & Seaborn: For data visualization.
 
 Jupyter Notebook: For an interactive coding environment.
 
-Dataset
+**Dataset**
 
 The project uses a dataset containing sales information, including:
 
@@ -45,7 +45,7 @@ Geographic information (region, country).
 
 (Dataset details, source, and access permissions can be updated here.)
 
-Key Insights
+**Key Insights**
 
 Identification of best-selling products and categories.
 
@@ -53,7 +53,7 @@ Regions contributing the most revenue.
 
 Sales trends across different time periods.
 
-Results
+**Results**
 The project outputs include:
 
 Graphs and charts for visualizing trends.
