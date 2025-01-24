@@ -54,6 +54,7 @@ Regions contributing the most revenue.
 Sales trends across different time periods.
 
 **Results**
+
 The project outputs include:
 
 Graphs and charts for visualizing trends.
